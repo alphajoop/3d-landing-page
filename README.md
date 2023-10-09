@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-A simple landing page. You can try it at [](https://3d-shape-landing.vercel.app/).
+A simple landing page. You can try it at [https://3d-shape-landing.vercel.app/](https://3d-shape-landing.vercel.app/).
 
 ## How to
 
